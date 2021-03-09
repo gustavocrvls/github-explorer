@@ -1,0 +1,12 @@
+{
+  "name": "github-explorer",
+  "version": "1.0.0",
+  "description": "A tool to explore the github",
+  "main": "index.js",
+  "author": "Gustavo Carvalho Silva",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
